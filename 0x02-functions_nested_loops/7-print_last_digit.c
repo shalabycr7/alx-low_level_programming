@@ -6,15 +6,15 @@
  */
 int print_last_digit(int nld)
 {
-	int nu;
+	int pld;
 
-	nu = (nu % 10);
+	pld = (nld % 10);
 
-	if (nu < 0)
+	if (pld < 0)
 	{
-		nu = (-1 * nu);
+		pld = (-1 * pld);
 	}
 
-	_putchar(nu + '0');
-	return (nu);
+	_putchar(pld + '0');
+	return (pld);
 }
