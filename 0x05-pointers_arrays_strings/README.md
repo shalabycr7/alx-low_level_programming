@@ -1,7 +1,7 @@
 # 0x05. C - Pointers, arrays and strings
 
 ## Description
-What you should learn from this project:
+What you should learn from this project is the following:
 
 * What are pointers and how to use them
 * What are arrays and how to use them
