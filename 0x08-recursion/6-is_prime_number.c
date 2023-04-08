@@ -24,7 +24,7 @@ int prime_state_check(int base_num, int expo_num)
 int is_prime_number(int n)
 {
 	if (n == 0)
-		return (0)
+		return (0);
 	else if (n < 0)
 		return (0);
 	else if (n == 1)
