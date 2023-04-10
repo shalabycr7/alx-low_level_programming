@@ -10,16 +10,13 @@
  */
 int main(int argc, char *argv[])
 {
-	if ((argc - 1) < 1)
-	{
-		printf("0\n");
-	}
-	else
-	{
-		int i = 1;
-		int sum = 0;
+	int sum = 0;
 
-		for (; i < argc; i++)
+	if ((argc - 1) >= 1)
+	{
+		int i;
+
+		for (i = 1; i < argc; i++)
 		{
 			if (!isdigit(*argv[i]))
 			{
@@ -28,7 +25,7 @@ int main(int argc, char *argv[])
 			}
 			sum = sum + atoi(argv[i]);
 		}
-		printf("%d\n", sum);
 	}
+	printf("%d\n", sum);
 	return (0);
 }
