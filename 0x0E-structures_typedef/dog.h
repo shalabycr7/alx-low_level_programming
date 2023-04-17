@@ -1,6 +1,8 @@
 #ifndef FILE_DOG
 #define FILE_DOG
 
+typedef struct dog dog_t;
+
 /**
  * struct dog - stores dog information.
  * @name: dog name
