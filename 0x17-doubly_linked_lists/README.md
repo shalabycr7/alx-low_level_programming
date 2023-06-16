@@ -45,3 +45,15 @@ What you should learn from this project is the following:
 ### [8-delete_dnodeint.c](./8-delete_dnodeint.c)
 
 - Write a function that deletes the node at index index of a dlistint_t linked list.
+
+### [100-password](./100-password)
+
+- Find the password for [crackme4](https://github.com/alx-tools/0x17.c).
+
+### [102-result](./102-result)
+
+- A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+
+### [103-keygen.c](./103-keygen.c)
+
+- Write a keygen for [crackme5](https://github.com/alx-tools/0x17.c).
