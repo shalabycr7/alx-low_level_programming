@@ -34,3 +34,4 @@ All the following folders are projects done during the program:
 | [`0x12-singly_linked_lists`](./0x12-singly_linked_lists)                 | It aims to learn about linked lists in **C language**                                                                                           |
 | [`0x14-bit_manipulation`](./0x14-bit_manipulation)                       | It aims to learn about how to manipulate bits and use bitwise operators in **C language**                                                       |
 | [`0x15-file_io`](./0x15-file_io)                                         | It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language** |
+| [`0x17-doubly_linked_lists`](./0x17-doubly_linked_lists)                 | It aims to learn about doubly linked list in **C language**                                                                                     |
